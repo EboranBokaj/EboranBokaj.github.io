@@ -38,7 +38,7 @@ header {
   flex-direction: row;
   align-items: center;
 
-  height: 70px;
+  height: 100px;
   width: 100%;
 
   /* Color */
@@ -46,6 +46,8 @@ header {
 
   /* Text */
   /* Other */
+  transition: 0.3s;
+  opacity: 1;
 }
 
 #profile-pic {
